@@ -19,7 +19,7 @@ set cc=80 " Show at 80 column a border for good code style
 filetype plugin indent on   " Allow auto-indenting depending on file type
 syntax on
 set spell " enable spell check (may need to download language package)
-set ttyfast " Speed up scrolling in Vim`:wq
+set ttyfast " Speed up scrolling in Vim
 
 set laststatus=2 " used by lightline.vim
 
